@@ -24,7 +24,7 @@ Gestione sus mesas y pedidos en tiempo real con nuestra aplicación especializad
 
 | Versión | Plataforma | Instalador |
 | :--- | :--- | :--- |
-| **v2.0.0 (Actual)** | 🤖 Android | [📥 Descargar FymApp Meseros (.apk)](https://github.com/FymApp-SAS/fymapp-releases/releases/download/Waiter/FymApp-Waiter.2.0.0.apk) |
+| **v1.0.0 (Actual)** | 🤖 Android | Proximamente... |
 
 ---
 
